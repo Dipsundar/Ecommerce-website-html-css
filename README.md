@@ -1,2 +1,18 @@
-# Ecommerce-website-html-css
-Responsive html css ecommerce website design. but somehow error presents.
+# Ecommerce-website-layout - mini-project
+Somehow Responsive html css ecommerce website design.
+
+
+### By Dipsundar Majhi 
+
+---
+
+### Purpose of this Project : Testing Javascript skills
+
+- Html
+- Css
+
+
+### [Click here to see the project demo](https://dipsundar.github.io/Ecommerce-website-html-css/)
+
+
+
